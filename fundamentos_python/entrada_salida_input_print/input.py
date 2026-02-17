@@ -1,0 +1,5 @@
+input("Introduce tu nombre: ")
+nombre = input("Introduce tu nombre: ")
+print("Hola", nombre)
+print("Hola " + nombre)
+print(f"Hola {nombre}") 
