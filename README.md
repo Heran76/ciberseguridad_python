@@ -40,43 +40,14 @@ Todo el contenido está enfocado en el **hacking ético**: el uso responsable de
 El repositorio está organizado en módulos. Cada módulo contiene teoría, ejemplos prácticos y ejercicios.
 
 ```bash
-📁 01-introduccion
-   ├── 01-que-es-hacking-etico.md
-   ├── 02-configuracion-entorno.md
-   └── ejercicios/
+📁 01-Fundamentos_python
+   ├── 01-entrada_salida_usuarios
+   ├── 02-input.py
+   └── 03-tipos_de_dato
+   ├── 04-ejecicios.py
+   └── 05-
 
-📁 02-python-para-seguridad
-   ├── 01-sockets.md
-   ├── 02-scapy.md
-   ├── 03-requests-y-http.md
-   └── ejercicios/
 
-📁 03-escaneo-de-redes
-   ├── 01-ping-sweeper.py
-   ├── 02-port-scanner.py
-   └── ejercicios/
-
-📁 04-ataques-de-fuerza-bruta
-   ├── 01-ssh-brute.py
-   ├── 02-ftp-brute.py
-   └── ejercicios/
-
-📁 05-analisis-de-trafico
-   ├── 01-sniffer.py
-   ├── 02-analisis-pcap.py
-   └── ejercicios/
-
-📁 06-defensa
-   ├── 01-honeypot.py
-   ├── 02-detector-intrusiones.py
-   └── ejercicios/
-
-📁 07-proyecto-final
-   └── instrucciones.md
-
-📁 recursos
-   ├── cheatsheet-python-seguridad.pdf
-   └── enlaces-utiles.md
 ```
 
 ## 🛠️ Herramientas y librerías utilizadas
@@ -93,7 +64,7 @@ El repositorio está organizado en módulos. Cada módulo contiene teoría, ejem
 
 ## 🚀 Cómo usar este repositorio
 
-Clona el repositorio:
+Clona el srepositorio:
 
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
