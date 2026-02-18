@@ -45,7 +45,10 @@ El repositorio está organizado en módulos. Cada módulo contiene teoría, ejem
    ├── 02-input.py
    └── 03-tipos_de_dato
    ├── 04-ejecicios.py
-   └── 05-
+   └── 05-variables.py
+   └── 06-practica:variables
+   ├── 07-comentarios
+   └── 08-Practica:comentarios
 
 
 ```
