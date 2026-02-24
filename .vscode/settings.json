@@ -1,9 +1,0 @@
-{
-    "python-envs.pythonProjects": [
-        {
-            "path": "fundamentos_python/entrada_salida_input_print",
-            "envManager": "ms-python.python:venv",
-            "packageManager": "ms-python.python:pip"
-        }
-    ]
-}
