@@ -49,6 +49,12 @@ El repositorio está organizado en módulos. Cada módulo contiene teoría, ejem
    └── 06-practica:variables
    ├── 07-comentarios
    └── 08-Practica:comentarios
+   ├── 09-listas-tuplas
+   └── 10-indexig_sling_stride
+   ├── 11-ejercicios_indexing
+   └── 12-Operadores_aritmeticos
+   ├── 12+1-ejercicios_operadores
+ 
 
 
 ```
